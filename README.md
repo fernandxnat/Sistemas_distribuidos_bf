@@ -1,4 +1,4 @@
-# Report
+# Report.
 ## Distributed Computing project.
 
 Brian Kalid García Olivo and Fernando Nateras Bautista.<br/>
@@ -16,3 +16,10 @@ Given the most popular trends we are going to identify the top ones and from the
   - Get the most popular tweet or tweets, based mainly in the amount of impressions and retweets.
   - Identify the type of account.
   - Make this process automatically, and store it in the web.
+  
+## Software tools
+  - Python 3.
+  - Twitter API.
+  - http server.
+  - Text editor.
+  - Libraries: tweepy and from this library we also use OAuthHandler and Stream. From tweepy.streaming we used StreamListener the other libraries are twitter, json, datetime and pandas.
