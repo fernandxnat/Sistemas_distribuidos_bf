@@ -22,7 +22,7 @@ Given the most popular trends we are going to identify the top ones and from the
   - Twitter API.
   - http server.
   - Text editor.
-  - Libraries: tweepy and from this library we also use OAuthHandler and Stream. From tweepy.streaming we used StreamListener the other libraries are twitter, json, datetime and pandas.
+  - Libraries: tweepy and from this library we also use OAuthHandler and Stream. From tweepy.streaming we used StreamListener the other libraries are twitter, json, datetime, pandas and matplotlib.
   
 ## General system architecture.
 - Data source : Twitter API.
