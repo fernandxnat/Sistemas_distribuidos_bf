@@ -1,2 +1,3 @@
-# Projec report
-Trabajo de prueba
+# Report
+## Distributed Computing project.
+###### Brian Kalid García Olivo and Fernando Nateras Bautista
