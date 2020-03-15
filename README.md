@@ -26,7 +26,6 @@ Given the most popular trends we are going to identify the top ones and from the
   
 ## General system architecture.
 - Data source : Twitter API.
-- Storage system: Mysql.
 - Main processing: Pyhton, Tweepy, Json.
 - Visualization: Matplotlib and HTML5.
 
